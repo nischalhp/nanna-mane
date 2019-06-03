@@ -61,13 +61,13 @@ user_groups:
 Hi, I am Nischal. I am from Bengaluru and have witnessed the city transform from garden, chilly city to an IT city. Introduced to computers at the age of 8, was always fascinated by games and the internet. Listening to the dialup connection and immitating the sound it made used to be the highlight of my day. 
 <br>
 <br>
-Eventually, I ended up as a software engineer. Started my accidental data science journey with algorithmic trading over 8 years ago and is currently working in document understanding space with Deep learning for the [insurance industry](www.omnius.com). 
+Eventually, ended up as a software engineer. Started my accidental data science journey with algorithmic trading over 8 years ago and am currently working in document understanding space with Deep learning for the [insurance industry](www.omnius.com). 
 <br>
 <br>
-I am still in the quest of figuring out what I want out of life and how to balance everything I love. 
+Still on the quest of figuring out what I want out of life and how to balance everything I love. 
 <br>
 <br>
-I enjoy playing football, traveling, dancing to the tunes of the world, running and photography. This website is an attempt to bring all my small worlds into one place. 
+Enjoy playing football, traveling, dancing to the tunes of the world, running and photography. This website is an attempt to bring all my small worlds into one place. 
 Also gives me a reason to commit on github every now and then ( partner did not allow me to add the wink smiley )
 <br>
 <br>
