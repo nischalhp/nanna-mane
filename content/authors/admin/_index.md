@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Nischal Harohalli Padmanabha
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Software Engineer, working in the intersection of Deep learning, Engineering and Visualisations
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: omni:us
+  url: "https://www.omnius.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning, large scale engineering and social interactions.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +29,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:nischal.hp@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/nischalhp
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/nischalhp
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/nischalhp/
+- icon: instagram 
+  icon_pack: fab
+  link: https://www.instagram.com/nischalrd
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +58,16 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hi, I am Nischal. I am from Bengaluru and have witnessed the city transform from garden, chilly city to an IT city. Introduced to computers at the age of 8, was always fascinated by games and the internet. Listening to the dialup connection and immitating the sound it made used to be the highlight of my day. 
+<br>
+<br>
+Eventually, I ended up as a software engineer. Started my accidental data science journey with algorithmic trading over 8 years ago and is currently working in document understanding space with Deep learning for the [insurance industry](www.omnius.com). 
+<br>
+<br>
+I am still in the quest of figuring out what I want out of life and how to balance everything I love. 
+<br>
+<br>
+I enjoy playing football, traveling, dancing to the tunes of the world, running and photography. This website is an attempt to bring all my small worlds into one place. 
+Also gives me a reason to commit on github every now and then ( partner did not allow me to add the wink smiley )
+<br>
+<br>
