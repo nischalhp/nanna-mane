@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Engineer, working in the intersection of Deep learning, Engineering and Visualisations
+role: Software Engineer by profession, filter kapi drinker by choice.
 
 # Organizations/Affiliations
 organizations:
