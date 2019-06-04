@@ -58,7 +58,7 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am Nischal. I am from Bengaluru and have witnessed the city transform from garden, chilly city to an IT city. Introduced to computers at the age of 8, was always fascinated by games and the internet. Listening to the dialup connection and immitating the sound it made used to be the highlight of my day. 
+Hi, I am Nischal. A proud Kannadiga from Bengaluru.  Witnessed the city transform itself from a garden, chilly, quiet city to a hustle bustle cosmopolitan IT city. Introduced to computers at the age of 8, always fascinated by games and the internet. Back in the day listening to the dialup connection and immitating the sound it made used to be one of the highlights of my day. 
 <br>
 <br>
 Eventually, ended up as a software engineer. Started my accidental data science journey with algorithmic trading over 8 years ago and am currently working in document understanding space with Deep learning for the [insurance industry](www.omnius.com). 
