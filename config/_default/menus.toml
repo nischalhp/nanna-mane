@@ -13,6 +13,10 @@
   url = "#talks"
   weight = 20
 
+[[main]]
+  name = "Current muse"
+  url = "#musings"
+  weight = 20
 
 [[main]]
   name = "Contact"
