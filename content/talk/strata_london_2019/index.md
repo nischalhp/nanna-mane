@@ -48,7 +48,7 @@ links:
   url: https://twitter.com/nischalhp
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://speakerdeck.com/raghothams/deep-learning-for-fonts"
 url_video: ""
 
 # Markdown Slides (optional).
