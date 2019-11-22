@@ -21,11 +21,20 @@ Inculcating the habit of reading regularly is turning out to be quite a beautifu
 
 ### Blogs
 
+[Google engineering practises documentation](https://google.github.io/eng-practices/review/reviewer/standard.html)
+
+[How to write OKRs](https://www.ntaskmanager.com/blog/okr-examples/)
+
 
 ### Conference Videos
 
+{{<youtube 7cINRP0BFY8>}}
 
+{{<youtube oBklltKXtDE>}}
 
 ### Podcasts
+
+
+### Repositories
 
 [Facebook release Engineering with Chuck Rossi](https://softwareengineeringdaily.com/2019/08/27/facebook-release-engineering-with-chuck-rossi/)
