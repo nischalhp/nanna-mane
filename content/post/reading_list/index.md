@@ -1,6 +1,7 @@
 ---
 title: Bibliography
 tags : ["reading", "books", "blogs", "videos", "tech", "fiction", "non-fiction"]
+date : "2019-01-01"
 ---
 
 Inculcating the habit of reading regularly is turning out to be quite a beautiful journey. I have also realized that, at times I am learning so much from beautiful blogs, podcasts, conference talks and not just from books. This space is to keep track of all the wonderful people who have had impact on my life thru their works. 
