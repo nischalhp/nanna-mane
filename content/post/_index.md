@@ -1,5 +1,5 @@
 ---
-title: Current muse
+title: Passages
 
 # View.
 #   1 = List
