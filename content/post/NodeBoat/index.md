@@ -31,10 +31,9 @@ We tested the boat in calm waters and it definitely worked.
 Then we spent the next hour programming that let us control the boat from a web app by turning the motors on and off and moving the rudder left and right.
 
 30 Minutes to final bell , we took our boat to harsh waters where the actually competition was going to be held. Our boat just sunk. The pool where the competition was being held had a water flowing in from a little height thus creating currents. Our boat could not handle currents. 
-We had to change the engineering aspect of the boat in the next 30 minutes
-and test it.
+We had to change the design aspect of the boat in 30 minutes.
 
-We had our brains running in full speed and what we did was, we took 2 small water bottles and added them on the side thus giving our boat more buoyancy. Our boat was afloat. #Whooohoho
+We had our brains running in full speed and here is what we did, we took 2 small water bottles and added them on the side thus giving our boat more buoyancy. Our boat was afloat. #Whooohoho
 
 We took it back to test and what happened was our boat was moving around in circles. We were like what the fuck is happening. Then suddenly we had a brain wave. We had reversed one motor i.e one motor was spinning in clock-wise and the other motor was spinning in anti-clock wise. Simple wiring going wrong. We fixed that and our boat was ready to race!
 
@@ -43,10 +42,8 @@ Our boat was ready, it was afloat and it was ready to go! 5 Seconds into the rac
 
 On our second chance our boat reached half length of the pool and I failed to control the rudder right and hence we started moving in circles again cause of the strength of the current.
 
-On this day, I understand for the first time the pain people took in building boats. Not big amazing boats, just boats! And how engineering is so so important. I now know what it is to be an actual engineer. 
+On this day, I understand for the first time the pain people took in building boats. Not big amazing boats, just boats! And how engineering and design is so important. I now know what it is to be an actual engineer.
 
 <b><i>And why i am  not one.
 
 Building something on our own and seeing it work is absolutely something else. I might be biased but when hardware and software come together there is some magic in it. Hoping I will do more building and learning from here onwards. Baby steps.
-
-
