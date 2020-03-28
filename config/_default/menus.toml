@@ -9,19 +9,24 @@
   weight = 10
 
 [[main]]
-  name = "Recent and Upcoming Talks"
+  name = "Conference Talks"
   url = "#talks"
   weight = 20
 
 [[main]]
-  name = "Current muse"
-  url = "#musings"
-  weight = 20
+  name = "Passages"
+  url = "#passages"
+  weight = 30
+  
+[[main]]
+  name = "Tech Short Writes"
+  url = "#tech_writes"
+  weight = 40
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
