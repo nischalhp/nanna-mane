@@ -2,6 +2,7 @@
 title: Multi tenancy with Kubernetes
 tags : ["kubernetes", "multi-tenancy", "enterprise-architecure"]
 date : "2019-11-25"
+type : post
 ---
 Understanding how to implement multi-tenancy across cloud and on-premise installations of Kubernetes for omni:us AI platform. 
 
