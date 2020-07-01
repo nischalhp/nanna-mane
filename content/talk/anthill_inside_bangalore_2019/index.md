@@ -51,4 +51,4 @@ math: true
 ---
 {{<tweet 1198141632731738112>}}
 {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSxYKYDs4L82Qz7NojVzYiOVkZbyhPOTBdww8gkyGfrdAN288nAwGiFoyQOdUUAXgegswJFSpZIlLMo/embed" >}}
-{{<youtube src="www.youtube.com/watch?v=oBR8flk2TjQ&t=11835s">}}
+{{<youtube src="https://www.youtube.com/watch?v=uffSmy-aFwk">}}

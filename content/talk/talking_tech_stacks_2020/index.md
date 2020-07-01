@@ -50,4 +50,4 @@ url_video: ""
 math: true
 ---
 {{<tweet 1258099582711599104>}}
-{{<youtube src="www.youtube.com/watch?v=46ZQ_aleX-o&t=9s">}}
+{{<youtube src="https://www.youtube.com/watch?v=bhTt0KQ_zuE">}}
